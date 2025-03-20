@@ -55,7 +55,6 @@ def login():
 
         bank_app()
 
-    # accounts = [
 
     #     {"firstname": "Chinazom", "lastname": "Onwukwe", "password": "afonne":
     #                "account": "1000000000", "email": "caonwukwe@gmail.com", "amount": "50000"
